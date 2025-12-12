@@ -1,0 +1,7 @@
+{
+  "name": "Smart Lecture Assistant",
+  "description": "A web application that provides live transcription of lectures, generates AI-powered summaries and notes, enables Q&A on the transcript, and offers translation and export functionalities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
